@@ -6,11 +6,10 @@ permalink: /about/
 
 ## About
 
-WebJeda is a web designing company 
+this is the about page
 .
 .
 .
 
 **Disclaimer:** This website is under constant modification. 
-If you find something isn't right then,
-I might be doing some change in the back-end.
+
