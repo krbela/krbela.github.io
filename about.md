@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Kim's about page
 permalink: /about/
 ---
